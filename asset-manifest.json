@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ashishdino06/myManagementApp/static/css/main.4f5a8cb2.css",
+    "main.js": "/ashishdino06/myManagementApp/static/js/main.7bbabe47.js",
+    "index.html": "/ashishdino06/myManagementApp/index.html",
+    "main.4f5a8cb2.css.map": "/ashishdino06/myManagementApp/static/css/main.4f5a8cb2.css.map",
+    "main.7bbabe47.js.map": "/ashishdino06/myManagementApp/static/js/main.7bbabe47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f5a8cb2.css",
+    "static/js/main.7bbabe47.js"
+  ]
+}
