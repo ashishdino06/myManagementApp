@@ -70,5 +70,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
+Homepage of the App.
+![image](https://github.com/ashishdino06/myManagementApp/assets/136683329/ae144145-bb65-49f7-8dbd-981fb48bfa99)
+
+
+Adding Movable task to the Backlog and Setting priority.
+![image](https://github.com/ashishdino06/myManagementApp/assets/136683329/6b78b5ec-1667-4d16-8232-c98ff56ba6bc)
+
+
+Moving task to In Progress and editing it/Deleting it.
+![image](https://github.com/ashishdino06/myManagementApp/assets/136683329/46787403-496b-4cf7-90dc-a0ba562f1d81)
+
+
 
 
