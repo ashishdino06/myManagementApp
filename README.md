@@ -71,5 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-![image](https://github.com/ashishdino06/myManagementApp/assets/136683329/2f01eb6c-7e7e-4b7a-b0ab-383a44421cf5)
 
